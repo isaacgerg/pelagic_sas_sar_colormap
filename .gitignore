@@ -4,15 +4,15 @@ __pycache__/
 .claude/
 
 # Generated demo outputs (not tracked — regenerate with demo_plots.py / demo_drc.py)
-graphic.png
-colormap_full_comparison.png
-pelagic_sas_sar.png
-drc_brightness_sweep.png
-sas_original_vs_linear.png
-sar_original_vs_linear.png
-sas_sar_gergula_comparison.png
-gergula_sas_sar.png
-sas_colormaps_demo.png
+/graphic.png
+/colormap_full_comparison.png
+/pelagic_sas_sar.png
+/drc_brightness_sweep.png
+/sas_original_vs_linear.png
+/sar_original_vs_linear.png
+/sas_sar_gergula_comparison.png
+/gergula_sas_sar.png
+/sas_colormaps_demo.png
 
 # Demo/development scripts (not part of the distributed package)
 demo_plots.py
