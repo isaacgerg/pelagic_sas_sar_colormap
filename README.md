@@ -43,7 +43,7 @@ plt.imshow(data, cmap="pelagic")
 
 ![Colormap diagnostic dashboard](images/colormap_full_comparison.jpg)
 
-Side-by-side comparison of `custom_sas`, `sas_original`, `custom_sas_linear`, `viridis`, and `jet` across: sineramp tests, perceptual lightness J, dJ/dt gradient, chroma profiles, grayscale simulation, synthetic SAS scenes, and CVD simulation.
+Side-by-side comparison of `pelagic`, `viridis`, and `jet` across: sineramp tests, perceptual lightness J, dJ/dt gradient, chroma profiles, grayscale simulation, synthetic SAS scenes, and CVD simulation.
 
 ### SAS & SAR Imagery
 
